@@ -1,7 +1,7 @@
 code: et-single-conf
 titles:
   en: Single Content
-  it: Single Content
+  it: Contenuto unico
 group: free
 customUiPath: et-single-widget.ftl
 configUi:
