@@ -8,4 +8,4 @@ configUi:
   customElement: single-content-widget-config # CHANGE-IT The name of the custom-element used to render the configUI
   resources: # CHANGE-IT the file containing the config screen built artefacts
     - single-content-widget/static/js/react-scw-config-0.0.0.js
-    - single-content-widget/static/css/main.ba73ce12.css
+    - single-content-widget/static/css/main.1c783cfb.chunk.css
